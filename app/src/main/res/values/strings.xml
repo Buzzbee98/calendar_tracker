@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calendar Tracker</string>
+    <string name="start_date">Start date</string>
+    <string name="end_date">End Date</string>
+    <string name="done">DONE</string>
+    <string name="total_time">Total Time</string>
+    <string name="total_occurrences">Total Occurrences</string>
+    <string name="average_time">Average Time</string>
+    <string name="average_occurrences">Average Occurrences</string>
+    <string name="per_day">Per Day</string>
+    <string name="per_week">Per Week</string>
+    <string name="per_month">Per Month</string>
+</resources>
